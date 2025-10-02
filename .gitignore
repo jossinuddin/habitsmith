@@ -23,3 +23,8 @@ data/snippets_code/**
 # Habit data (локальные данные)
 data/habits/**
 !data/habits/.keep
+
+# Local env files
+.env
+*.env
+.env.*
